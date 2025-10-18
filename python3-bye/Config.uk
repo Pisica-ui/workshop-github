@@ -1,7 +1,7 @@
 # Configure Python3 application for a build that uses initrd to pass the root
 # filesystem.
 # Enable initrd / CPIO-related core components and configurations.
-
+bblablbalbalblbalblb
 config APPBYEPYTHON3
 	bool "Configure Python3 application with initrd as rootfs"
 	default y
